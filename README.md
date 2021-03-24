@@ -37,11 +37,8 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/watchme
+git clone https://github.com/dandanbraz/desafio02-trilha-reactjs.git
 # ou use a opção de download.
-
-# Entre na pasta com 
-cd watchme
 
 # Instale as dependências
 yarn install
