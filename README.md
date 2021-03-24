@@ -63,7 +63,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Danilo Eduardo](https://www.linkedin.com/in/danilo-eduardo-aa29ab150)
+Feito com :purple_heart: by [Danilo Eduardo](https://www.linkedin.com/in/danilo-eduardo-aa29ab150/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-eduardo-aa29ab150/)](https://www.linkedin.com/in/danilo-eduardo-aa29ab150/) 
+[![Gmail Badge](https://img.shields.io/badge/-dandanbraz@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dandanbraz@hotmail.com)](mailto:dandanbraz@hotmail.com)
